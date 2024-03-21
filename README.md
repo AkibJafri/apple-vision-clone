@@ -41,10 +41,16 @@ Once the project is up and running, users can seamlessly interact with the appli
 
 ## Screenshots
 
-![Screenshot 1](/path/to/screenshot1.png)
+<img width="500" alt="image" src="https://github.com/AkibJafri/apple-vision-clone/assets/111608954/ce431bb8-dc4e-40fa-b1a1-32535c192d33">
+<img width="500" alt="image" src="https://github.com/AkibJafri/apple-vision-clone/assets/111608954/6dad9bc2-8cd1-4d4b-a490-f4a3a778843b">
+<img width="500" alt="image" src="https://github.com/AkibJafri/apple-vision-clone/assets/111608954/dca2bf07-0f1b-48ab-b644-563f42b37ee5">
+<img width="500" alt="image" src="https://github.com/AkibJafri/apple-vision-clone/assets/111608954/aafb702b-2f98-4198-ac65-fd98eb473b97">
 
 
-![Screenshot 2](/path/to/screenshot2.png)
+
+
+
+
 
 ## Contributing
 
