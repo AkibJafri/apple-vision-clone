@@ -1,6 +1,6 @@
-# Apple Vision Pro Clone
+# Apple Vision Pro
 
-This project is a clone of the Apple Vision Pro web app, built with a primary focus on UI and UX using pure vanilla JavaScript, HTML5, and CSS3. The project also utilizes GSAP for animations and Canvas for additional visual effects.
+This project is a replica of the Apple Vision Pro web application and has been developed with a primary focus on providing an optimal user interface and user experience. The application has been built using pure vanilla JavaScript, HTML5, and CSS3, and also incorporates GSAP for animations and Canvas for additional visual effects.
 
 ## Table of Contents
 - [Overview](#overview)
